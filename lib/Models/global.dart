@@ -10,6 +10,12 @@ TextStyle intrayTitleStyle = new TextStyle(
   color: darkGreyColor, 
   fontSize: 50
 );
+TextStyle intrayTitleStyle2 = new TextStyle(
+  fontFamily: 'Avenir', 
+  fontWeight: FontWeight.bold, 
+  color: darkblueColor, 
+  fontSize: 55
+);
 
 
 TextStyle bigLightBlueTitle = new TextStyle(
